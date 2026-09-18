@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @jamesob1100
-- 👀 I’m interested in movies, music, literature, and coding :)
-- 🌱 I’m currently learning computer science
-- 📫 How to reach me: james.ob205@gmail.com
-- 😄 Pronouns: he/him
- 
+### Hi, I'm James 👋
 
-<!---
-jamesob1100/jamesob1100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science student at TU Dublin, building full-stack applications 
+with a focus on secure, well-tested backend systems.
+
+- 🔭 Currently working on: Adding python analytics to my Budgeting App
+- 💻 Languages: C, Java, Python, PHP, SQL
+- 📫 Reach me: james.ob205@gmail.com
